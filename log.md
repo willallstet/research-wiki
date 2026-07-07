@@ -23,3 +23,7 @@ Entry format:
 - Added config/substacks.txt: cliuanon, newmodels, donotresearch, joshuacitarella, ideaspace(ystrickler.com). First run, 14-day window.
 - 8 new posts; 6 queued (PRs #2-#7), 2 skipped (off Will's documented topics: CLiuAnon working-class cinema; Doomscroll 49.5 electoral-strategy).
 - Queued: NM 'Taste', DNR 'Sea Monsters as Medium', DNR 'Noel & Trevor Paglen', Doomscroll DS50/Steyerl/Steyerl-II. Watermark advanced for all 5 feeds.
+
+## [2026-07-07] review_content | 6 queued substack PRs (#2-#7)
+- Reviewed all 6 open content PRs. Readable (rated): #2 NM Taste (I7/T6), #3 DNR Sea Monsters (I8/T7), #4 DNR Noel & Paglen (I8/T4).
+- Gated podcast stubs (no rating, on-topic note only): #5/#6/#7 Doomscroll Hito Steyerl episodes — substance is paywalled audio.
