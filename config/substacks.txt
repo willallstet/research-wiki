@@ -1,0 +1,11 @@
+# Blogs/newsletters tracked for the Will Allstetter research-interests wiki.
+# One publication per line: bare Substack handle, subdomain, or full feed URL.
+# Blank lines and # comments are ignored. Consumed by the track_substacks skill.
+# These sit in Will's post-internet / online-culture / net-art orbit.
+
+cliuanon
+newmodels
+donotresearch
+joshuacitarella
+# ideaspace (Yancey Strickler) moved off substack to a custom domain:
+https://ideaspace.ystrickler.com/feed
