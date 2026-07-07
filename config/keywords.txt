@@ -1,0 +1,42 @@
+# arXiv scan keywords for the Will Allstetter research-interests wiki.
+# Derived from a depth-1 crawl of www.willallstetter.com (2026-07-07).
+# Lines starting with # and blank lines are ignored. One keyword/phrase per line.
+# These translate his arts/humanities interests into terms that match arXiv
+# (mostly cs.CV, cs.LG, cs.HC, cs.CY, cs.IR) papers.
+
+# --- AI-generated images: politics, aesthetics, provenance ---
+text-to-image generation
+image generation bias
+generative image provenance
+diffusion model interpretability
+synthetic image detection
+
+# --- Imperfect / broken / degraded images ---
+image restoration
+image compression artifacts
+adversarial examples images
+image quality assessment
+lossy image degradation
+
+# --- Recommender systems / the "algorithm" as opaque system ---
+recommender system transparency
+algorithmic curation
+opaque recommendation explainability
+
+# --- Material & environmental substrate of ML/computing ---
+energy consumption deep learning
+carbon footprint machine learning
+data center efficiency
+DNA data storage
+RowHammer
+
+# --- Archives, associative retrieval, embeddings ---
+vector search embeddings
+semantic image retrieval
+content-based image retrieval
+multimodal embeddings
+knowledge graph Wikipedia
+
+# --- Human-computer interaction / tangible & embodied interfaces ---
+tangible user interface
+embodied interaction
