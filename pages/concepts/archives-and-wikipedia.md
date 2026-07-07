@@ -32,4 +32,10 @@ Across these, the interest is the **archive as a living, associative, and
 lossy medium** — Are.na and Wikipedia as its native platforms, vector search as
 the way in, and broken/alt images as the edge case that reveals how it works.
 
+## Tracked readings
+
+- [[sea-monsters-as-medium]] — online myth-making and algorithmic resurfacing of
+  images as a living, associative digital archive (Do Not Research); also
+  [[media-infrastructure]].
+
 Source: [[simple2026portfolio]].

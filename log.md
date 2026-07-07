@@ -27,3 +27,8 @@ Entry format:
 ## [2026-07-07] review_content | 6 queued substack PRs (#2-#7)
 - Reviewed all 6 open content PRs. Readable (rated): #2 NM Taste (I7/T6), #3 DNR Sea Monsters (I8/T7), #4 DNR Noel & Paglen (I8/T4).
 - Gated podcast stubs (no rating, on-topic note only): #5/#6/#7 Doomscroll Hito Steyerl episodes — substance is paywalled audio.
+
+## [2026-07-07] update_wiki | integrate 3 accepted queue items
+- Added a 'readings' category. New pages: flash-bon-inference-time-scaling, sea-monsters-as-medium, new-models-taste-2026.
+- Cross-linked from concepts ai-and-machine-vision (Flash-BoN, NM Taste), media-infrastructure & archives-and-wikipedia (Sea Monsters). Index updated; 3 queue files removed.
+- Note: adapted the DAM update_wiki layout (papers/primitives) to this wiki's sources/entities/concepts/readings taxonomy. Rejected PR #4 (Paglen) not integrated.

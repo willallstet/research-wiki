@@ -32,4 +32,11 @@ invisible — the environmental cost of the cloud, the physical fragility of AI
 hardware, the built machinery of immersive art — and the rhetoric that keeps it
 out of view. Overlaps with [[ai-and-machine-vision]].
 
+## Tracked readings
+
+External readings on this theme, gathered by `track_substacks` and reviewed in-repo:
+
+- [[sea-monsters-as-medium]] — the physical internet (submarine cables, data
+  centers, hydrophones) as the medium that carries digital myth (Do Not Research).
+
 Source: [[simple2026portfolio]].

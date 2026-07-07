@@ -36,4 +36,14 @@ that. Evidenced across both his [[published-writing]] and [[art-projects]].
   [[affiliations]]) — "bad"/broken images as a subject, which overlaps with
   [[archives-and-wikipedia]] (his "Broken Images and the Alt Text that Remains").
 
+## Tracked readings
+
+External readings on this theme, gathered by `scan_arxiv` / `track_substacks` and
+reviewed in-repo:
+
+- [[flash-bon-inference-time-scaling]] — text-to-image inference-time scaling;
+  also its verifier/reward-model aesthetic-bias finding.
+- [[new-models-taste-2026]] — "taste" as anxiety about AI flattening human
+  discernment (New Models).
+
 Source: [[simple2026portfolio]].

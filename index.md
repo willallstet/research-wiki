@@ -21,3 +21,11 @@ and `lint`. Line format:
 - [AI & machine vision](pages/concepts/ai-and-machine-vision.md) — how machines see, generate, and search images.
 - [Archives, Wikipedia & the image](pages/concepts/archives-and-wikipedia.md) — archives and Wikipedia as associative, lossy image sources.
 - [Media & computing infrastructure](pages/concepts/media-infrastructure.md) — data centers, chips, and clouds vs. their market valuation.
+
+## Readings
+
+External papers & posts tracked via `scan_arxiv` / `track_substacks`, reviewed in-repo, and integrated on merge.
+
+- [Flash-BoN: Inference-Time Scaling in Diffusion Models](pages/readings/flash-bon-inference-time-scaling.md) — text-to-image inference-time scaling; wall-clock reframing + verifier aesthetic bias (arXiv 2607.04461).
+- [Sea Monsters as Medium](pages/readings/sea-monsters-as-medium.md) — the physical internet as the medium carrying digital myth (Do Not Research).
+- [NM Content Today | Taste (2026)](pages/readings/new-models-taste-2026.md) — "taste" as anxiety about AI flattening human discernment (New Models).
