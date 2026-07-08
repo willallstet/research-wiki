@@ -28,3 +28,4 @@ External papers & posts tracked via `scan_arxiv` / `track_substacks`, reviewed i
 - [Flash-BoN: Inference-Time Scaling in Diffusion Models](pages/readings/flash-bon-inference-time-scaling.md) — text-to-image inference-time scaling; wall-clock reframing + verifier aesthetic bias (arXiv 2607.04461).
 - [Sea Monsters as Medium](pages/readings/sea-monsters-as-medium.md) — the physical internet as the medium carrying digital myth (Do Not Research).
 - [NM Content Today | Taste (2026)](pages/readings/new-models-taste-2026.md) — "taste" as anxiety about AI flattening human discernment (New Models).
+- [Ccru: Writings 1997–2003](pages/readings/ccru-writings-1997-2003.md) — collected Cybernetic Culture Research Unit texts; origin of "hyperstition" and a touchstone for the algorithmic sublime (Time Spiral Press).

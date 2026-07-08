@@ -34,3 +34,4 @@ Entry format:
 - Note: adapted the DAM update_wiki layout (papers/primitives) to this wiki's sources/entities/concepts/readings taxonomy. Rejected PR #4 (Paglen) not integrated.
 
 ## [2026-07-08] lint | fixed 1 broken link (index.md format-legend placeholder parsed as a link); staleness clean (portfolio pages pinned at HEAD af63cc3, no drift); orphans clean; taxonomy matches page dirs
+## [2026-07-08] ingest | ccru/writings-1997-2003 (added on request) — new readings page from PDF; +1 index line; links to ai-and-machine-vision, archives-and-wikipedia, media-infrastructure, sea-monsters-as-medium
