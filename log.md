@@ -32,3 +32,5 @@ Entry format:
 - Added a 'readings' category. New pages: flash-bon-inference-time-scaling, sea-monsters-as-medium, new-models-taste-2026.
 - Cross-linked from concepts ai-and-machine-vision (Flash-BoN, NM Taste), media-infrastructure & archives-and-wikipedia (Sea Monsters). Index updated; 3 queue files removed.
 - Note: adapted the DAM update_wiki layout (papers/primitives) to this wiki's sources/entities/concepts/readings taxonomy. Rejected PR #4 (Paglen) not integrated.
+
+## [2026-07-08] lint | fixed 1 broken link (index.md format-legend placeholder parsed as a link); staleness clean (portfolio pages pinned at HEAD af63cc3, no drift); orphans clean; taxonomy matches page dirs

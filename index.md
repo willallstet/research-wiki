@@ -1,9 +1,8 @@
 # Wiki index
 
 Content catalog. One line per page, grouped by category. Maintained by `ingest`
-and `lint`. Line format:
-
-`- [Title](pages/<category>/<page>.md) — one-line hook`
+and `lint`. Each line is a dash, a markdown link whose text is the page Title and
+whose target is `pages/CATEGORY/PAGE.md`, an em dash, then a one-line hook.
 
 ## Sources
 
