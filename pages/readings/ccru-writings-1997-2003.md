@@ -77,14 +77,17 @@ goes along," and Alan Greenspan's "irrational exuberance" is set beside the
 
 ## Assessment
 
-- **Trustworthy — as scholarship, low; as primary source, high.** By design this is
-  theory-*fiction*: it makes no claim to factual accuracy (the foreword preserves
-  its own "factual errors" deliberately). Cite it as a primary artifact of
-  1990s accelerationist / cyber-theory culture, never as a factual authority.
-- **Interesting — high for this wiki.** It is the ur-text for hyperstition and a
-  recurring touchstone in exactly the post-internet / algorithmic-sublime discourse
-  the concept pages track. Dense, deliberately obscure, and long (~200 pp.), so it
-  rewards targeted reading over cover-to-cover.
+- **A primary artifact, read on its own terms.** This is theory-*fiction*, and its
+  refusal of factual accuracy is the point, not a flaw — the foreword preserves its
+  own "factual errors, conceptual absurdities, and ethico-political monstrosities"
+  deliberately (`Ccru Writings 1997-2003.pdf:40–42 @n/a`). It is a first-order
+  document of 1990s accelerationist / cyber-theory culture: valued for what it
+  *does* (its mythos, rhetoric, and hyperstitional method), not for what it reports.
+- **Highly generative for this wiki.** The ur-text for hyperstition and a recurring
+  touchstone in exactly the post-internet / algorithmic-sublime discourse the
+  concept pages track. Dense, deliberately obscure, and long (~200 pp.), so it
+  rewards targeted reading around the Numogram, the Glossary, and the Cybergothic
+  material over cover-to-cover.
 
 Source: added on direct request (2026-07-08); read in full from the linked PDF (Time
 Spiral Press edition). Note: the source URL's filename credits "Nick Land" as an
