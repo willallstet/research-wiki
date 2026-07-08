@@ -37,5 +37,14 @@ the way in, and broken/alt images as the edge case that reveals how it works.
 - [[sea-monsters-as-medium]] — online myth-making and algorithmic resurfacing of
   images as a living, associative digital archive (Do Not Research); also
   [[media-infrastructure]].
+- [[benjamin-work-of-art-mechanical-reproduction]] — "to ask for the 'authentic'
+  print makes no sense": reproduction as the condition under which images
+  circulate as endless copies detached from origin.
+- [[steyerl-in-free-fall]] — the "multiple spectator" and post-perspectival,
+  multi-screen visualities: dispersed, non-unified ways of seeing images (Hito
+  Steyerl, e-flux #24).
+- [[osullivan-myth-science-fictioning]] — a critique of contemporary art's
+  "archival turn" (gathering without transforming) and of the post-internet "web
+  of images" (Simon O'Sullivan).
 
 Source: [[simple2026portfolio]].

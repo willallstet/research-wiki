@@ -35,3 +35,7 @@ Entry format:
 
 ## [2026-07-08] lint | fixed 1 broken link (index.md format-legend placeholder parsed as a link); staleness clean (portfolio pages pinned at HEAD af63cc3, no drift); orphans clean; taxonomy matches page dirs
 ## [2026-07-08] ingest | ccru/writings-1997-2003 (added on request) — new readings page from PDF; +1 index line; links to ai-and-machine-vision, archives-and-wikipedia, media-infrastructure, sea-monsters-as-medium
+## [2026-07-08] update_wiki | integrate 5 accepted queue items (Benjamin, Steyerl, O'Sullivan, Chirimuuta, Spinoza)
+- Added 5 readings pages: benjamin-work-of-art-mechanical-reproduction, steyerl-in-free-fall, osullivan-myth-science-fictioning, chirimuuta-reflex-machine-cybernetic-brain, spinoza-ethics. All read in full (4 local files via /ingest_folder; Steyerl fetched from e-flux with a browser UA after a 403).
+- Cross-linked into concepts ai-and-machine-vision (all 5), media-infrastructure (Benjamin, Steyerl), archives-and-wikipedia (Benjamin, Steyerl, O'Sullivan); reciprocal links added in ccru-writings-1997-2003 (O'Sullivan/hyperstition) and chirimuuta (Spinoza on mind/mechanism). Index updated (+5 lines); 5 queue files removed.
+- Noted (not flattened) two productive tensions: Chirimuuta's abstraction argument vs Flash-BoN's scaling optimism, and Spinoza's monism vs Chirimuuta's organicism. Steyerl page flags the rotted citations found in companion crawl PR #9. Opened as a PR per the maintainer's branch-and-PR rule (no direct push to main).

@@ -38,5 +38,11 @@ External readings on this theme, gathered by `track_substacks` and reviewed in-r
 
 - [[sea-monsters-as-medium]] — the physical internet (submarine cables, data
   centers, hydrophones) as the medium that carries digital myth (Do Not Research).
+- [[benjamin-work-of-art-mechanical-reproduction]] — the technical apparatus
+  (camera, film) as the thing that reorganizes perception itself; ancestor of
+  "infrastructure shapes what we can see."
+- [[steyerl-in-free-fall]] — the "military-surveillance-entertainment complex" and
+  vertical 3D sovereignty: visuality bound to surveillance hardware and
+  infrastructures of control (Hito Steyerl, e-flux #24).
 
 Source: [[simple2026portfolio]].
