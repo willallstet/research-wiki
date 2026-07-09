@@ -35,3 +35,6 @@ Entry format:
 
 ## [2026-07-08] lint | fixed 1 broken link (index.md format-legend placeholder parsed as a link); staleness clean (portfolio pages pinned at HEAD af63cc3, no drift); orphans clean; taxonomy matches page dirs
 ## [2026-07-08] ingest | ccru/writings-1997-2003 (added on request) — new readings page from PDF; +1 index line; links to ai-and-machine-vision, archives-and-wikipedia, media-infrastructure, sea-monsters-as-medium
+
+## [2026-07-09] update_wiki | integrate 5 accepted queue items
+Integrated 5 merged queue items into readings: Benjamin, *The Work of Art in the Age of Mechanical Reproduction* (local PDF); Chirimuuta, *The Reflex Machine and the Cybernetic Brain* (local PDF); O'Sullivan, *Myth-Science and the Fictioning of Reality* (local PDF); Steyerl, *In Free Fall* (e-flux #24, read from URL); Spinoza, *Ethics* (local txt, Elwes/Gutenberg). Added new concept page [[fictioning-and-hyperstition]] (anchored by Ccru + O'Sullivan) and wired the readings into concepts ai-and-machine-vision, media-infrastructure, archives-and-wikipedia; added a fictioning backlink to the Ccru page. +6 index lines. Removed the 5 processed JSON files from queue/accepted/. Sources have no commit SHAs (local files / web essay), so provenance uses commit: n/a and file/line or paragraph citations.

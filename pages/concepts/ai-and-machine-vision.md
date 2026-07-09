@@ -45,5 +45,20 @@ reviewed in-repo:
   also its verifier/reward-model aesthetic-bias finding.
 - [[new-models-taste-2026]] — "taste" as anxiety about AI flattening human
   discernment (New Models).
+- [[benjamin-work-of-art-mechanical-reproduction]] — the origin text for the
+  machine-made image and how an apparatus reorganises perception ("unconscious
+  optics"; the withering aura).
+- [[chirimuuta-reflex-machine-cybernetic-brain]] — the philosophy-of-science case
+  *against* computationalism: why the brain is not a computer (the "critique of
+  abstraction").
+- [[steyerl-in-free-fall]] — machine and aerial vision (Google Maps, satellite,
+  drone) and the politics of perspective-as-abstraction.
+- [[spinoza-ethics]] — the geometrical, deterministic model of mind that the
+  critique of abstraction interrogates.
+
+## Related concepts
+
+- [[fictioning-and-hyperstition]] — the algorithmic sublime as fiction that makes
+  itself real.
 
 Source: [[simple2026portfolio]].

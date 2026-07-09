@@ -13,7 +13,9 @@ Press, 2015 (collecting texts written 1997–2003) ·
 [read the PDF](https://files.libcom.org/files/%5BCcru,_Nick_Land%5D_Ccru_Writings_1997-2003(BookZZ.org).pdf)
 
 A reading tracked for [[ai-and-machine-vision]] (the algorithmic sublime),
-[[media-infrastructure]], and [[archives-and-wikipedia]].
+[[media-infrastructure]], [[archives-and-wikipedia]], and
+[[fictioning-and-hyperstition]] (the ur-text for *hyperstition*; see also
+[[osullivan-myth-science-fictioning]]).
 
 ## What it is
 

@@ -38,5 +38,11 @@ External readings on this theme, gathered by `track_substacks` and reviewed in-r
 
 - [[sea-monsters-as-medium]] — the physical internet (submarine cables, data
   centers, hydrophones) as the medium that carries digital myth (Do Not Research).
+- [[benjamin-work-of-art-mechanical-reproduction]] — the reproduction *apparatus*
+  (the technical substrate) as what drives changes in art and perception.
+- [[steyerl-in-free-fall]] — the "military-surveillance-entertainment complex"
+  and the hardware markets behind aerial / 3D vision.
+- [[chirimuuta-reflex-machine-cybernetic-brain]] — the politics of the
+  machine-organism analogy: mechanism as inseparable from exploitable labor.
 
 Source: [[simple2026portfolio]].

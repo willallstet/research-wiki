@@ -37,5 +37,11 @@ the way in, and broken/alt images as the edge case that reveals how it works.
 - [[sea-monsters-as-medium]] — online myth-making and algorithmic resurfacing of
   images as a living, associative digital archive (Do Not Research); also
   [[media-infrastructure]].
+- [[benjamin-work-of-art-mechanical-reproduction]] — authenticity, the "original,"
+  the copy, and what survives reproduction ("to ask for the 'authentic' print
+  makes no sense").
+- [[osullivan-myth-science-fictioning]] — the "archival turn" critique and the
+  post-internet "web of images that doubles our world"; see
+  [[fictioning-and-hyperstition]].
 
 Source: [[simple2026portfolio]].
