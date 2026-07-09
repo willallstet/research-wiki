@@ -76,6 +76,9 @@ goes along," and Alan Greenspan's "irrational exuberance" is set beside the
   substrate of the net ("submarine … abysmal bass," the "Crypt … beneath and
   between the net") as a haunted material medium, resonant with the wiki's
   physical-internet-as-medium readings ([[sea-monsters-as-medium]]).
+- **Cross-reading:** [[osullivan-myth-science-fictioning]] applies **hyperstition**
+  to contemporary art practice — the clearest scholarly extension of this book's
+  central concept into the wiki's post-internet / art-theory material.
 
 ## Assessment
 

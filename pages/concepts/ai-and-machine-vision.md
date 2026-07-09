@@ -45,6 +45,21 @@ reviewed in-repo:
   also its verifier/reward-model aesthetic-bias finding.
 - [[new-models-taste-2026]] — "taste" as anxiety about AI flattening human
   discernment (New Models).
+- [[benjamin-work-of-art-mechanical-reproduction]] — the canonical prior text on
+  reproduction, "aura," and authenticity; the lineage behind anxieties about
+  machine-made, infinitely reproducible images.
+- [[steyerl-in-free-fall]] — linear perspective as a constructed "objective"
+  abstraction, and the drone/satellite/aerial view as its disembodied,
+  machine-outsourced heir (Hito Steyerl, e-flux #24).
+- [[osullivan-myth-science-fictioning]] — art's "fictioning" against
+  algorithmically flattened platform image-banks and image-worlds "not of human
+  generation"; the algorithmic-sublime / hyperstition thread (Simon O'Sullivan).
+- [[chirimuuta-reflex-machine-cybernetic-brain]] — the "brain is not a computer"
+  debate: the *abstraction argument* against computationalism and the limits of
+  scaling models toward general intelligence (M. Chirimuuta, phil. of science).
+- [[spinoza-ethics]] — the classical prior for an impersonal, immanent
+  God-as-Nature and the critique of final causes; a lens on anthropomorphic
+  projection onto opaque systems (the algorithmic sublime).
 - [[benjamin-work-of-art-mechanical-reproduction]] — the origin text for the
   machine-made image and how an apparatus reorganises perception ("unconscious
   optics"; the withering aura).
