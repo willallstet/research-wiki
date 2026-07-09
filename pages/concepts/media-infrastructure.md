@@ -44,5 +44,11 @@ External readings on this theme, gathered by `track_substacks` and reviewed in-r
 - [[steyerl-in-free-fall]] — the "military-surveillance-entertainment complex" and
   vertical 3D sovereignty: visuality bound to surveillance hardware and
   infrastructures of control (Hito Steyerl, e-flux #24).
+- [[benjamin-work-of-art-mechanical-reproduction]] — the reproduction *apparatus*
+  (the technical substrate) as what drives changes in art and perception.
+- [[steyerl-in-free-fall]] — the "military-surveillance-entertainment complex"
+  and the hardware markets behind aerial / 3D vision.
+- [[chirimuuta-reflex-machine-cybernetic-brain]] — the politics of the
+  machine-organism analogy: mechanism as inseparable from exploitable labor.
 
 Source: [[simple2026portfolio]].

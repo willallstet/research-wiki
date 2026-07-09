@@ -46,5 +46,11 @@ the way in, and broken/alt images as the edge case that reveals how it works.
 - [[osullivan-myth-science-fictioning]] — a critique of contemporary art's
   "archival turn" (gathering without transforming) and of the post-internet "web
   of images" (Simon O'Sullivan).
+- [[benjamin-work-of-art-mechanical-reproduction]] — authenticity, the "original,"
+  the copy, and what survives reproduction ("to ask for the 'authentic' print
+  makes no sense").
+- [[osullivan-myth-science-fictioning]] — the "archival turn" critique and the
+  post-internet "web of images that doubles our world"; see
+  [[fictioning-and-hyperstition]].
 
 Source: [[simple2026portfolio]].

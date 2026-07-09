@@ -1,97 +1,99 @@
 ---
-source: spinoza/ethics
+source: local/spinoza-ethics
 commit: n/a
-files: [/home/agent/work/pdfs/spinoza.txt]
-updated: 2026-07-08
+files: [pdfs/spinoza.txt]
+updated: 2026-07-09
 kind: book
 ---
 
-# Ethics (Ethica Ordine Geometrico Demonstrata)
+# Ethics (Spinoza)
 
-**By:** Benedict de Spinoza · **Written:** completed 1675, published posthumously
-1677 · **This text:** the R. H. M. Elwes translation (Project Gutenberg eBook
-#3800)
+**By:** Benedict de Spinoza (Benedictus de Spinoza) · **Written:** completed 1675,
+published posthumously 1677 (*Ethica, Ordine Geometrico Demonstrata*) ·
+**This edition:** R. H. M. Elwes translation, Project Gutenberg eBook #3800 ·
+read in full from the queued text file.
 
-A philosophical primary text tracked for [[ai-and-machine-vision]] — specifically
-[[will-allstetter]]'s **algorithmic sublime** thread (his *Syntax* essay "Are You
-There God? It's Me, The Algorithm"): Spinoza's **God-as-Nature** is a canonical
-reference point for a non-anthropomorphic, immanent, law-governed divinity, exactly
-the frame invoked when awe and belief are projected onto impersonal systems. Read
-in full from the local plaintext.
+A reading tracked as a philosophical touchstone for [[ai-and-machine-vision]]
+(the geometrical / computational picture of mind and its critique) and
+[[fictioning-and-hyperstition]] (necessity, immanence, and the power of ideas).
 
 ## What it is
 
-Spinoza's masterwork, presented "geometrically" — as **definitions, axioms,
-propositions, proofs, corollaries, and notes**, in imitation of Euclid — across
-five parts (`spinoza.txt:61`):
+Spinoza's masterwork, written **"in the geometrical manner"** — definitions,
+axioms, propositions, proofs, corollaries, scholia — extended from geometry to
+"human vice and folly" on the conviction that "nature is always the same, and
+everywhere one and the same in her efficacy and power of action … so that there
+should be one and the same method of understanding the nature of all things
+whatsoever" (`spinoza.txt:3620–3629 @n/a`). Five parts:
 
-1. **Concerning God** (`spinoza.txt:61`)
-2. **On the Nature and Origin of the Mind**
-3. **On the Origin and Nature of the Emotions** (`spinoza.txt:3584`)
-4. **Of Human Bondage, or the Strength of the Emotions** (`spinoza.txt:6111`)
-5. **Of the Power of the Understanding, or of Human Freedom** (`spinoza.txt:8559`)
+1. **Concerning God** (`spinoza.txt:61 @n/a`) — substance monism.
+2. **Of the Nature and Origin of the Mind** — the parallelism of thought and
+   extension.
+3. **On the Origin and Nature of the Emotions** (`spinoza.txt:3584 @n/a`).
+4. **Of Human Bondage, or the Strength of the Emotions** (`spinoza.txt:6111
+   @n/a`).
+5. **Of the Power of the Understanding, or of Human Freedom** (`spinoza.txt:8559
+   @n/a`).
 
-## Its core moves
+## Its central ideas
 
-- **God, or Nature (*Deus sive Natura*).** There is only one infinite substance,
-  and it is identical with Nature. "God is the indwelling and not the transient
-  cause of all things" (`spinoza.txt:821`, I.Prop.XVIII) — an immanent, not a
-  personal or external, God. Everything that exists is a *mode* of this one
-  substance under its attributes (thought and extension).
-- **Against final causes.** Spinoza rejects purpose in nature: "nature has no
-  particular goal in view, and … final causes are mere human figments"
-  (`spinoza.txt:1449`, I.Appendix). Belief in purpose is a projection of human
-  desire; mathematics, by "considering solely the essence and properties of figures
-  without regard to their final causes," is what "furnished another standard of
-  verity" (`spinoza.txt:1440`).
-- **Emotions treated geometrically.** Part III famously refuses to place man "as a
-  kingdom within a kingdom." Spinoza will "treat of human vice and folly
-  geometrically," because "Nothing comes to pass in nature, which can be set down
-  to a flaw therein; for nature is always the same" — he considers "human actions
-  and desires in exactly the same manner, as though I were concerned with lines,
-  planes, and solids" (`spinoza.txt:3620`–3641, III.Preface).
-- **Bondage and freedom.** Human bondage is being driven by passive emotions
-  (passions) caused by external things; freedom is the mind's power, through
-  *adequate ideas* and reason, over those emotions (Parts IV–V).
-- **Blessedness.** The culmination is the **intellectual love of God**
-  (`spinoza.txt:9400`, V), and the ethical inversion: "Blessedness is not the reward
-  of virtue, but virtue itself" (`spinoza.txt:9671`, V.Prop.XLII). The book ends on
-  its most-quoted line — the path to freedom "must be hard, since it is so seldom
-  found. But all things excellent are as difficult as they are rare"
-  (`spinoza.txt:9715`).
+- **God-or-Nature (substance monism).** "God, or substance, consisting of
+  infinite attributes … necessarily exists" (`spinoza.txt:353–355 @n/a`); and
+  "whatsoever is, is in God, and without God nothing can be, or be conceived"
+  (`spinoza.txt:520–521 @n/a`). There is one infinite substance; everything else
+  is a *mode* of it.
+- **Necessity, not free will.** From the divine nature "must follow an infinite
+  number of things in infinite ways" (`spinoza.txt:677–679 @n/a`); "will cannot
+  be called a free cause, but only a necessary cause" (`spinoza.txt:1144–1145
+  @n/a`). Nothing is contingent.
+- **The conatus.** "Everything, in so far as it is in itself, endeavours to
+  persist in its own being" (`spinoza.txt:3939–3941 @n/a`), and this endeavour
+  "is nothing else but the actual essence of the thing in question"
+  (`spinoza.txt:3944–3946 @n/a`) — the engine of Spinoza's account of the
+  emotions.
+- **Bondage and freedom.** In bondage "a man is a prey to his emotions"
+  (`spinoza.txt:6121 @n/a`); freedom comes through *adequate ideas* and
+  understanding necessity. The summit is the **intellectual love of God** arising
+  from the "third kind of knowledge," which "is eternal" (`spinoza.txt:9400–9408
+  @n/a`), in which "blessedness" consists — famously "not the reward of virtue,
+  but virtue itself." The book closes: "all things excellent are as difficult as
+  they are rare" (`spinoza.txt:9715–9716 @n/a`).
 
 ## Why it's here
 
-- **Concept fit:** [[ai-and-machine-vision]] — the **algorithmic sublime**. When
-  [[will-allstetter]]'s writing frames the algorithm as a quasi-divine force ("Are
-  You There God? It's Me, The Algorithm"), Spinoza is the classical prior for a God
-  that is impersonal, immanent, and identical with a law-governed order rather than
-  a watching person. His attack on final causes ("final causes are mere human
-  figments") is directly the diagnosis of *anthropomorphic projection* onto systems
-  that have no purpose of their own — a sharp lens on how awe gets attached to
-  opaque computation.
-- **Cross-reading:** it pairs with [[chirimuuta-reflex-machine-cybernetic-brain]] on
-  the mind/mechanism question from the opposite direction. Chirimuuta argues the
-  organism is *not* reducible to a machine's abstractions; Spinoza argues mind and
-  body are one substance under two attributes and that human action follows
-  nature's necessity "as though … lines, planes, and solids." Read together they
-  frame the wiki's recurring tension between mechanistic and holistic pictures of
-  mind. A productive tension, noted rather than flattened.
-- It also resonates with the wiki's interest in **theory-fiction and the
-  quasi-religious** ([[ccru-writings-1997-2003]], [[osullivan-myth-science-fictioning]]):
-  Spinoza is the sober, rationalist ancestor against which those mystical/hyperstitional
-  treatments of computation can be measured.
+- **Concept fit:** [[ai-and-machine-vision]] — Spinoza is the great early exponent
+  of a *geometrical, deterministic* model of mind and nature, exactly the
+  more-geometrico picture that [[chirimuuta-reflex-machine-cybernetic-brain]]'s
+  "critique of abstraction" interrogates. Reading the two together stages the
+  wiki's central tension over the computational/mechanistic view of mind: Spinoza
+  builds the ordered, necessitarian system; Chirimuuta (via Bergson, Goldstein,
+  Merleau-Ponty) asks what such abstraction leaves out. Note the historical
+  cameo: Merleau-Ponty invokes Spinoza's drowning-fly example against the "theory
+  of animal machines" (`The Reflex Machine.pdf:p27 @n/a`,
+  [[chirimuuta-reflex-machine-cybernetic-brain]]).
+- **Concept fit:** [[fictioning-and-hyperstition]] — Spinoza's immanence (no
+  transcendent outside; everything a mode of one substance) and his account of
+  ideas as *active powers* is a philosophical ancestor of the Deleuzo-Guattarian
+  frame that runs through [[osullivan-myth-science-fictioning]] and the
+  accelerationist / Ccru material ([[ccru-writings-1997-2003]]); Deleuze's Spinoza
+  is a direct line into that tradition.
 
 ## Assessment
 
-- **A primary artifact, read on its own terms.** One of the central texts of Western
-  philosophy; its value here is as a durable reference for the God/Nature,
-  anti-teleology, and mind-body-monism ideas the wiki's algorithmic-sublime thread
-  keeps brushing against — not a claim to be fact-checked.
-- **Note on edition.** This is the 19th-century Elwes translation (public-domain,
-  Project Gutenberg #3800); it is readable and standard but pre-dates modern
-  scholarly translations (e.g. Curley), and the geometric apparatus (cross-references
-  like "V. xxxii. Coroll.") is dense. Citations above are line numbers into the
-  ingested plaintext, keyed to the Part/Proposition where possible.
+- **A primary source in the canonical sense**, read on its own terms. This is the
+  Elwes translation via Project Gutenberg — serviceable and public-domain, though
+  Victorian and now superseded scholarly by Curley; adequate for tracking the
+  architecture of the argument and quoting the load-bearing propositions, less so
+  for fine terminological work. Cited here by the internal line numbers of the
+  queued text file.
+- **A deep-background touchstone rather than a hot reading.** Unlike the
+  contemporary art/theory readings, the *Ethics* is upstream of the wiki's
+  concerns by centuries; its value is as the philosophical bedrock against which
+  the wiki's arguments about mind, machine, necessity, and immanence can be
+  measured. Enormous and demanding (the geometrical method is a wall for many
+  readers), so it rewards targeted entry — Part I on substance, the conatus in
+  Part III, and the intellectual-love-of-God material in Part V.
 
-Source: local plaintext added via `/ingest_folder`; read in full.
+Source: added as a queued local text file (2026-07-09); read in full. The queue
+item's title was `spinoza.txt`; identified from the file header as the *Ethics*,
+Elwes translation, Project Gutenberg #3800.

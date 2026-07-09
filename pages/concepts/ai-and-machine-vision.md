@@ -60,5 +60,20 @@ reviewed in-repo:
 - [[spinoza-ethics]] — the classical prior for an impersonal, immanent
   God-as-Nature and the critique of final causes; a lens on anthropomorphic
   projection onto opaque systems (the algorithmic sublime).
+- [[benjamin-work-of-art-mechanical-reproduction]] — the origin text for the
+  machine-made image and how an apparatus reorganises perception ("unconscious
+  optics"; the withering aura).
+- [[chirimuuta-reflex-machine-cybernetic-brain]] — the philosophy-of-science case
+  *against* computationalism: why the brain is not a computer (the "critique of
+  abstraction").
+- [[steyerl-in-free-fall]] — machine and aerial vision (Google Maps, satellite,
+  drone) and the politics of perspective-as-abstraction.
+- [[spinoza-ethics]] — the geometrical, deterministic model of mind that the
+  critique of abstraction interrogates.
+
+## Related concepts
+
+- [[fictioning-and-hyperstition]] — the algorithmic sublime as fiction that makes
+  itself real.
 
 Source: [[simple2026portfolio]].
