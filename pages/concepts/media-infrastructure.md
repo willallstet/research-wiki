@@ -50,5 +50,9 @@ External readings on this theme, gathered by `track_substacks` and reviewed in-r
   and the hardware markets behind aerial / 3D vision.
 - [[chirimuuta-reflex-machine-cybernetic-brain]] — the politics of the
   machine-organism analogy: mechanism as inseparable from exploitable labor.
+- [[kittler-there-is-no-software]] — Kittler's "priority of hardware": software is
+  a legal/commercial fiction layered over voltage differences, each abstraction
+  "contrived to evade perception." The canonical statement of the substrate-first
+  thread (1992).
 
 Source: [[simple2026portfolio]].

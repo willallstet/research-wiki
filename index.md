@@ -40,3 +40,4 @@ External papers & posts tracked via `scan_arxiv` / `track_substacks`, reviewed i
 - [Myth-Science and the Fictioning of Reality](pages/readings/osullivan-myth-science-fictioning.md) — O'Sullivan on art as fictioning/myth-science, and its link to hyperstition (Paragrana, 2016).
 - [In Free Fall: A Thought Experiment on Vertical Perspective](pages/readings/steyerl-in-free-fall.md) — Steyerl on groundlessness, the fall of linear perspective, and aerial/vertical vision (e-flux #24, 2011).
 - [Ethics (Spinoza)](pages/readings/spinoza-ethics.md) — Spinoza's geometrical system: substance monism, the conatus, and the intellectual love of God (1677; Elwes trans.).
+- [There Is No Software](pages/readings/kittler-there-is-no-software.md) — Kittler on the priority of hardware: software as a legal fiction over voltage differences; the computational metaphor and the limits of digitizing nature (1992).

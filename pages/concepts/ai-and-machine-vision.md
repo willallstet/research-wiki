@@ -70,6 +70,10 @@ reviewed in-repo:
   drone) and the politics of perspective-as-abstraction.
 - [[spinoza-ethics]] — the geometrical, deterministic model of mind that the
   critique of abstraction interrogates.
+- [[kittler-there-is-no-software]] — a critique of the computational metaphor from
+  the hardware side: the Church–Turing hypothesis as an unwarranted claim about
+  nature, and the impossibility of losslessly "digitalizing" the physical world
+  (pairs with Chirimuuta's neuroscience-side critique).
 
 ## Related concepts
 

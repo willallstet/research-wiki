@@ -42,3 +42,6 @@ Entry format:
 
 ## [2026-07-09] update_wiki | integrate 5 accepted queue items
 Integrated 5 merged queue items into readings: Benjamin, *The Work of Art in the Age of Mechanical Reproduction* (local PDF); Chirimuuta, *The Reflex Machine and the Cybernetic Brain* (local PDF); O'Sullivan, *Myth-Science and the Fictioning of Reality* (local PDF); Steyerl, *In Free Fall* (e-flux #24, read from URL); Spinoza, *Ethics* (local txt, Elwes/Gutenberg). Added new concept page [[fictioning-and-hyperstition]] (anchored by Ccru + O'Sullivan) and wired the readings into concepts ai-and-machine-vision, media-infrastructure, archives-and-wikipedia; added a fictioning backlink to the Ccru page. +6 index lines. Removed the 5 processed JSON files from queue/accepted/. Sources have no commit SHAs (local files / web essay), so provenance uses commit: n/a and file/line or paragraph citations.
+
+## [2026-07-09] ingest | kittler/there-is-no-software
+New readings page from local PDF (a68ba6a…): Friedrich Kittler, "There Is No Software" (1992), read in full. +1 index line; added to tracked readings on [[media-infrastructure]] (priority of hardware / substrate-first) and [[ai-and-machine-vision]] (critique of the computational metaphor, pairs with Chirimuuta). Source PDF is OCR-noisy; quotes normalized and cited to printed pages 147–155. Removed accepted queue item.
