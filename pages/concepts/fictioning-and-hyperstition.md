@@ -36,7 +36,7 @@ imports Ccru's hyperstition into a working account of what post-internet art
 
 - **Ties to [[ai-and-machine-vision]]:** the "algorithmic sublime"
   ([[will-allstetter]]'s *Syntax* essay "Are You There God? It's Me, The
-  Algorithm", `index.html:68`) is hyperstition applied to computation — awe and
+  Algorithm", `index.html:70 @0eb35db`) is hyperstition applied to computation — awe and
   belief projected onto opaque systems that then "make themselves real."
 - **Ties to [[archives-and-wikipedia]]:** both anchor readings treat the net as a
   site of myth-making and lossy, self-propagating fiction — decaying websites

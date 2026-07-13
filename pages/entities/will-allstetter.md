@@ -1,8 +1,8 @@
 ---
 source: willallstet/simple2026portfolio
-commit: af63cc3a3b2137db130fafb4bc8ada75257de74a
+commit: 0eb35db2390d3724fb43734c1093ba767de9cb1e
 files: [index.html]
-updated: 2026-07-07
+updated: 2026-07-13
 ---
 
 # Will Allstetter

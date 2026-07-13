@@ -1,8 +1,8 @@
 ---
 source: willallstet/simple2026portfolio
-commit: af63cc3a3b2137db130fafb4bc8ada75257de74a
+commit: 0eb35db2390d3724fb43734c1093ba767de9cb1e
 files: [index.html]
-updated: 2026-07-07
+updated: 2026-07-13
 ---
 
 # Archives, Wikipedia & the image
@@ -14,16 +14,16 @@ survives when they break.
 ## Evidence
 
 - **Essay on affect theory and Wikipedia** in the Are.na Annual Volume 6
-  (`index.html:74`) — an explicit Wikipedia + affect-theory piece; see
+  (`index.html:76`) — an explicit Wikipedia + affect-theory piece; see
   [[published-writing]].
 - **wikiAssociations** — a scrolling feed of Wikipedia-sourced images
-  (`index.html:69`), the project form of the same interest; see [[art-projects]].
+  (`index.html:71`), the project form of the same interest; see [[art-projects]].
 - **Broken Images and the Alt Text that Remains** — an Are.na piece on what
-  persists when an image fails to load (`index.html:91`).
-- **Local Are.na vector search** (`index.html:72`) and the **Tangible Media Group
-  library prototype** (`index.html:79`) — navigating personal/physical archives
+  persists when an image fails to load (`index.html:93`).
+- **Local Are.na vector search** (`index.html:74`) and the **Tangible Media Group
+  library prototype** (`index.html:81`) — navigating personal/physical archives
   by similarity; overlaps with [[ai-and-machine-vision]].
-- **The Interface vs the Archive** for *Cursor Magazine* (`index.html:77`) — names
+- **The Interface vs the Archive** for *Cursor Magazine* (`index.html:79`) — names
   the tension directly.
 
 ## The through-line

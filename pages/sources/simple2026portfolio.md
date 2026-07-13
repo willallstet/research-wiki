@@ -1,8 +1,8 @@
 ---
 source: willallstet/simple2026portfolio
-commit: af63cc3a3b2137db130fafb4bc8ada75257de74a
+commit: 0eb35db2390d3724fb43734c1093ba767de9cb1e
 files: [index.html, style.css, CNAME, scripts/make-display-images.py, scripts/reencode-gifs.sh]
-updated: 2026-07-07
+updated: 2026-07-13
 ---
 
 # simple2026portfolio — source overview
@@ -20,7 +20,7 @@ The whole site is three tracked assets plus a photo library:
   one long `<ul>` of ~40 works (art, writing, projects, exhibitions, teaching).
   Two inline `<script>` blocks handle a color-cycling title cube
   (`index.html:15`) and custom lazy-loading of images, `<video>`, and `<iframe>`
-  embeds (`index.html:111`).
+  embeds (`index.html:113`).
 - `style.css` — a compact serif stylesheet (Times New Roman, star `☆` list
   bullets, responsive `70vw`/`20vw` breakpoints at `style.css:123`).
 - `photos/` — the image/video library (gitignored `.DS_Store` aside), including
@@ -47,8 +47,8 @@ person: [[will-allstetter]].
 
 ## Lazy-loading behavior (worth knowing)
 
-Media uses `data-src` rather than `src`; the `index.html:111` script swaps them
+Media uses `data-src` rather than `src`; the `index.html:113` script swaps them
 in as elements enter the viewport (`IntersectionObserver`, 250px margin), loads
 iframes one-at-a-time through a queue, and wakes lazy images/videos on
-`scroll`/`resize`/`load`/`pageshow` (`index.html:187`–`index.html:255`). So a
+`scroll`/`resize`/`load`/`pageshow` (`index.html:189`–`index.html:257`). So a
 raw fetch of the HTML shows embeds inert until scrolled into view.
