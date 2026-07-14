@@ -47,3 +47,10 @@ New readings page from local PDF (a68ba6a…): Friedrich Kittler, "There Is No S
 
 ## [2026-07-13] ingest | willallstet/simple2026portfolio @0eb35db — delta: 2 new landing-page items (Conscious Tether reader → published-writing; Lattice Lab / Transmediale 2027 → affiliations); +2 line shift propagated across all index.html-derived pages
 ## [2026-07-13] lint | staleness clean after ingest (all 9 portfolio-derived pages re-pinned to 0eb35db, incl. will-allstetter.md whose cited bio lines were verified unmoved); corrected +2 line-shift citations in 2 readings pages (benjamin, osullivan) that ingest's delta did not touch; links + orphans clean; no contradictions; taxonomy matches page dirs
+
+## [2026-07-14] scan_arxiv | 25 keywords, 6 candidates, 3 PRs opened
+- Scanned 25 keywords (all succeeded after arXiv 429 throttling + retries).
+- 6 candidates in 2-day window; 0 duplicates of open PRs/queue/integrated.
+- Queued: 2607.11886 (SpectraReward, text-to-image reward modeling — AI & machine vision), 2605.15868 (SOLAR, symmetric multimodal retrieval — archives/embeddings), 2607.11643 (Xiaomi-Robotics-U0, unified embodied synthesis — borderline, defaulted to queue).
+- Skipped: 2607.10864 (image-deblurring convex-optimization math), 2607.11007 (TabPFN classifier calibration), 2607.10909 (Stresa recsys adapter efficiency).
+- PRs #28, #29, #30.
