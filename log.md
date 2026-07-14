@@ -54,3 +54,9 @@ New readings page from local PDF (a68ba6a…): Friedrich Kittler, "There Is No S
 - Queued: 2607.11886 (SpectraReward, text-to-image reward modeling — AI & machine vision), 2605.15868 (SOLAR, symmetric multimodal retrieval — archives/embeddings), 2607.11643 (Xiaomi-Robotics-U0, unified embodied synthesis — borderline, defaulted to queue).
 - Skipped: 2607.10864 (image-deblurring convex-optimization math), 2607.11007 (TabPFN classifier calibration), 2607.10909 (Stresa recsys adapter efficiency).
 - PRs #28, #29, #30.
+
+## [2026-07-14] track_substack | 5 feeds polled, 3 new posts, 3 PRs opened
+- Polled 5 feeds; 3 posts newer than watermarks: cliuanon (2026-2027 Syllabus), donotresearch (Performing Distress), joshuacitarella (DS 50.5: Hito Steyerl).
+- Opened queue PRs #31, #32, #33 ({url,title,source} schema for /review_content). Note: DS 50.5 is a Doomscroll digest, which the interest profile marks REJECTED — left for /review_content to score.
+- Advanced watermarks in config/substacks_state.json to each feed's newest post; newmodels + ideaspace unchanged (no new posts).
+- Ran the track_substacks workflow directly: the skill referenced by config is not installed on this pod (see report).
