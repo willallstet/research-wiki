@@ -180,7 +180,7 @@ of Art.pdf:p19–20 @n/a`).
 - **Concept fit:** [[ai-and-machine-vision]] — the essay is the origin point for
   thinking about the machine-produced image and how an apparatus reorganises
   seeing. Benjamin's "aura" is the natural antecedent to [[will-allstetter]]'s
-  concern with the algorithmic sublime (`index.html:70`) and with what a
+  concern with the algorithmic sublime (`index.html:71 @1436a13`) and with what a
   machine's way of seeing does to human perception — the camera's "unconscious
   optics" prefigures the machine-vision gaze. It reads productively against
   [[new-models-taste-2026]], whose anxiety about AI "flattening" discernment is a
@@ -189,7 +189,7 @@ of Art.pdf:p19–20 @n/a`).
 - **Concept fit:** [[archives-and-wikipedia]] — authenticity, the "original,"
   the copy, and what survives reproduction are exactly Will's terrain
   ([[will-allstetter]]'s "Broken Images and the Alt Text that Remains",
-  `index.html:93`; **wikiAssociations**, `index.html:71`). Benjamin: "to ask for
+  `index.html:95 @1436a13`; **wikiAssociations**, `index.html:72 @1436a13`). Benjamin: "to ask for
   the 'authentic' print makes no sense" (`Benjamin - Work of Art.pdf:p6 @n/a`).
 - **Concept fit:** [[media-infrastructure]] — Benjamin insists the *technique*
   (the physical apparatus of reproduction) is what drives the change in art and

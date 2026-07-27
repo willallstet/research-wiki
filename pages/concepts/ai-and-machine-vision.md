@@ -1,8 +1,8 @@
 ---
 source: willallstet/simple2026portfolio
-commit: 0eb35db2390d3724fb43734c1093ba767de9cb1e
+commit: 1436a131bfac312d70f7a32720f09f74f5077402
 files: [index.html]
-updated: 2026-07-13
+updated: 2026-07-27
 ---
 
 # AI & machine vision
@@ -14,25 +14,25 @@ that. Evidenced across both his [[published-writing]] and [[art-projects]].
 ## In his writing
 
 - **The rhetorical push behind AI image generation** @ ICP for *Document
-  Journal* — "AI, learning, language, seeing is meaning" (`index.html:72`).
-- The *Syntax* essay on the **algorithmic sublime** (`index.html:70`) sits at the
+  Journal* — "AI, learning, language, seeing is meaning" (`index.html:73 @1436a13`).
+- The *Syntax* essay on the **algorithmic sublime** (`index.html:71 @1436a13`) sits at the
   intersection of AI and spirituality.
 
 ## In his projects
 
 - **Vector search over images/archives** recurs: [[art-projects]] includes a
-  local Are.na vector search (`index.html:74`) and a Tangible Media Group
-  physical-library-by-vector-search prototype (`index.html:81`).
+  local Are.na vector search (`index.html:75 @1436a13`) and a Tangible Media Group
+  physical-library-by-vector-search prototype (`index.html:82 @1436a13`).
 - **Low-view-count YouTube** as a subject — "YouTube frames from 12:00am to
-  12:59am" (`index.html:66`) and a YouTube-collage post (`index.html:82`) — a
+  12:59am" (`index.html:67 @1436a13`) and a YouTube-collage post (`index.html:83 @1436a13`) — a
   recurring fascination with the machine-indexed long tail of video.
 - **Adversarial / fragile ML** — the GPUHammer curse-tablet video frames a
-  bit-flip attack dropping a model's accuracy from 80% to <1% (`index.html:78`),
+  bit-flip attack dropping a model's accuracy from 80% to <1% (`index.html:79 @1436a13`),
   connecting to [[media-infrastructure]].
 
 ## Related teaching
 
-- Assistant-taught **Imperfect Pictures** at SFPC (`index.html:83`, see
+- Assistant-taught **Imperfect Pictures** at SFPC (`index.html:84 @1436a13`, see
   [[affiliations]]) — "bad"/broken images as a subject, which overlaps with
   [[archives-and-wikipedia]] (his "Broken Images and the Alt Text that Remains").
 

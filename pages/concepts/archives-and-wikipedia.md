@@ -1,8 +1,8 @@
 ---
 source: willallstet/simple2026portfolio
-commit: 0eb35db2390d3724fb43734c1093ba767de9cb1e
+commit: 1436a131bfac312d70f7a32720f09f74f5077402
 files: [index.html]
-updated: 2026-07-13
+updated: 2026-07-27
 ---
 
 # Archives, Wikipedia & the image
@@ -14,16 +14,20 @@ survives when they break.
 ## Evidence
 
 - **Essay on affect theory and Wikipedia** in the Are.na Annual Volume 6
-  (`index.html:76`) — an explicit Wikipedia + affect-theory piece; see
+  (`index.html:77 @1436a13`) — an explicit Wikipedia + affect-theory piece; see
   [[published-writing]].
 - **wikiAssociations** — a scrolling feed of Wikipedia-sourced images
-  (`index.html:71`), the project form of the same interest; see [[art-projects]].
+  (`index.html:72 @1436a13`), the project form of the same interest; see [[art-projects]].
 - **Broken Images and the Alt Text that Remains** — an Are.na piece on what
-  persists when an image fails to load (`index.html:93`).
-- **Local Are.na vector search** (`index.html:74`) and the **Tangible Media Group
-  library prototype** (`index.html:81`) — navigating personal/physical archives
+  persists when an image fails to load, shown at Soft Systems Gallery as
+  take-away postcards (`index.html:95 @1436a13`).
+- **Local Are.na vector search** (`index.html:75 @1436a13`) and the **Tangible Media Group
+  library prototype** (`index.html:82 @1436a13`) — navigating personal/physical archives
   by similarity; overlaps with [[ai-and-machine-vision]].
-- **The Interface vs the Archive** for *Cursor Magazine* (`index.html:79`) — names
+- **imageGit** — an image's edit history rendered as a git commit log
+  (`index.html:52 @1436a13`); versioning as another way of archiving an image; see
+  [[art-projects]].
+- **The Interface vs the Archive** for *Cursor Magazine* (`index.html:80 @1436a13`) — names
   the tension directly.
 
 ## The through-line

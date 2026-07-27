@@ -191,8 +191,8 @@ art-practice concerns — see [[fictioning-and-hyperstition]].
   essay's account of **post-internet art** ("art that is made from and for the
   web of images … increasingly not of human generation," `Myth-Science.pdf:p7
   @n/a`) and its critique of social-media image-banks map directly onto
-  [[will-allstetter]]'s practice: **wikiAssociations** (`index.html:71`), the
-  Are.na vector search (`index.html:74`), and the machine-indexed image long tail
+  [[will-allstetter]]'s practice: **wikiAssociations** (`index.html:72 @1436a13`), the
+  Are.na vector search (`index.html:75 @1436a13`), and the machine-indexed image long tail
   ([[ai-and-machine-vision]]). O'Sullivan's "web of images that doubles our world"
   is the theoretical frame for that work.
 - **Milieu fit:** [[sea-monsters-as-medium]] and the wiki's post-internet /

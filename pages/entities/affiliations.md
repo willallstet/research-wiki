@@ -1,8 +1,8 @@
 ---
 source: willallstet/simple2026portfolio
-commit: 0eb35db2390d3724fb43734c1093ba767de9cb1e
+commit: 1436a131bfac312d70f7a32720f09f74f5077402
 files: [index.html]
-updated: 2026-07-13
+updated: 2026-07-27
 ---
 
 # Affiliations
@@ -19,12 +19,12 @@ on the site.
 - **IBM Research, incubation team** — "this summer" (`index.html:36`,
   [research.ibm.com](https://research.ibm.com/)).
 - **MIT Media Lab — Tangible Media Group** — collaborator on a prototype for
-  navigating a physical library by vector search (`index.html:81`). See
+  navigating a physical library by vector search (`index.html:82 @1436a13`). See
   [[art-projects]].
 - **Olia Lialina's Lattice Lab, "Reclaiming the Interface" — Transmediale 2027**
   — announced as a member of the lab for the 2027 edition of the festival
   ([transmediale.de](https://transmediale.de/en/programme/reclaiming-the-interface-lab),
-  `index.html:53 @0eb35db`). Continues the [[media-infrastructure]] /
+  `index.html:54 @1436a13`). Continues the [[media-infrastructure]] /
   interface-vs-archive thread and his prior Transmediale coverage (see
   [[published-writing]]).
 
@@ -38,11 +38,11 @@ on the site.
 - **School for Poetic Computation (SFPC)** — assistant-taught *Imperfect
   Pictures* for Molly Soda, with class round-ups published in
   [2024](https://sfpc.study/blog/how-to-take-a-bad-image) and
-  [2025](https://sfpc.study/blog/images-with-issues) (`index.html:83`).
+  [2025](https://sfpc.study/blog/images-with-issues) (`index.html:84 @1436a13`).
 
 ## Consulting
 
 - **ArkDes** (Swedish national centre for architecture and design) — provided
-  "AI Consultation" on the *Worldglimpsing* exhibition (`index.html:92`).
+  "AI Consultation" on the *Worldglimpsing* exhibition (`index.html:94 @1436a13`).
 
 Source: [[simple2026portfolio]].

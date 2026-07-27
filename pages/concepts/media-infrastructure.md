@@ -1,8 +1,8 @@
 ---
 source: willallstet/simple2026portfolio
-commit: 0eb35db2390d3724fb43734c1093ba767de9cb1e
+commit: 1436a131bfac312d70f7a32720f09f74f5077402
 files: [index.html]
-updated: 2026-07-13
+updated: 2026-07-27
 ---
 
 # Media & computing infrastructure
@@ -14,16 +14,16 @@ fragility and its market valuation.
 ## Evidence
 
 - **Cloud infrastructure exploration** for *Document Journal* — data centers,
-  wifi, "the cloud," internet storage, and the environment (`index.html:80`); see
+  wifi, "the cloud," internet storage, and the environment (`index.html:81 @1436a13`); see
   [[published-writing]].
-- **GPUHammer / curse tablet** video (`index.html:78`, see [[art-projects]]) — its
+- **GPUHammer / curse tablet** video (`index.html:79 @1436a13`, see [[art-projects]]) — its
   alt text narrates the July 2025 GPUHammer attack flipping bits on Nvidia chips
   (model accuracy 80% → <1%), the patch's ~10% slowdown and 6.25% memory cost,
   and the company's $4.6T valuation climbing "in spite of the vulnerability,"
   paired with Greco-Roman curse tablets as a plea for justice. Infrastructure
   fragility versus market faith, framed mythologically.
-- **Mercer Labs** and **Luna Luna** reviews for *Dwell* (`index.html:85`,
-  `index.html:88`) — immersive-media spaces as built environments.
+- **Mercer Labs** and **Luna Luna** reviews for *Dwell* (`index.html:86 @1436a13`,
+  `index.html:89 @1436a13`) — immersive-media spaces as built environments.
 
 ## The through-line
 
