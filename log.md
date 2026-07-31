@@ -62,3 +62,18 @@ New readings page from local PDF (a68ba6a…): Friedrich Kittler, "There Is No S
 - Ran the track_substacks workflow directly: the skill referenced by config is not installed on this pod (see report).
 ## [2026-07-27] ingest | willallstet/simple2026portfolio @1436a13 — delta: +imageGit project (index.html:52); Refresh exhibition now listed twice (plain link :87 + photo/full-title :93, flagged for lint); Soft Systems Gallery detail added to Broken Images (:95); Transmediale line reworded (:54). +2 net line shift re-pinned across all 9 index.html-derived pages (sources overview incl. script/style line moves).
 ## [2026-07-27] lint | post-ingest verification: links + orphans clean (check-links empty); all 9 index.html-derived pages confirmed pinned to 1436a13; caught index.html cross-citations in 2 readings pages (benjamin :95/:72, osullivan :72/:75) that ingest's PDF-scoped delta could not reach; no contradictions (Refresh double-listing documented on art-projects, not flattened — single-author site evolving); taxonomy matches page dirs.
+
+## [2026-07-31] track_substack | 5 feeds polled, 0 new posts, 0 PRs opened
+All five feeds fetched successfully; each feed's newest post sat exactly at its
+stored watermark, so nothing new since 2026-07-28. Watermarks unchanged (no
+advance needed). No digest entries.
+
+## [2026-07-31] scan_arxiv | 25 keywords, 7 candidates, 4 PRs opened
+All 25 keywords fetched cleanly (no API failures). 7 unique candidates in the
+2-day window; 1 deduped (2607.27084, already open as PR #64). Scored 6:
+queued 4 — PR #67 2607.28233 (RowHammer/RowPress device-level modeling →
+media-infrastructure), #68 2607.27628 (BlindPSNR no-reference fidelity →
+ai-and-machine-vision), #69 2607.28526 (DAR-Net degradation/content
+disentangling, borderline), #70 2607.28130 (face SR + re-ID, borderline).
+Skipped 2 — 2607.27898 (remote-sensing efficiency, cf. REJECTED #56),
+2607.28247 (agricultural monitoring; IQA keyword collision only).
