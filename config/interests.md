@@ -21,3 +21,12 @@ which queue PRs you merge (kept) vs close (rejected). Curated lines win ties.
 - REJECTED (#5): Doomscroll newsletter digests (Steyerl aggregation)
 - REJECTED (#6): Doomscroll newsletter digests (Steyerl aggregation)
 - REJECTED (#7): Doomscroll newsletter digests (Steyerl aggregation)
+- LIKED (#8): canonical media-theory essays on perspective/verticality (Steyerl, e-flux)
+- LIKED (#15): Kittler-lineage media materialism — "there is no software"
+- LIKED (#16): foundational Frankfurt School aesthetics (Benjamin, aura/reproduction)
+- LIKED (#17): philosophy-of-science critiques of computationalism and cybernetic brain models
+- LIKED (#18): mythopoesis / fictioning as artistic-philosophical method (O'Sullivan)
+- LIKED (#20): primary-source classical philosophy read whole (Spinoza's Ethics)
+- REJECTED (#19): cultural-studies critique of fitness/body discipline (off-domain sociology of the body)
+- REJECTED (#32): online-subculture pathology ethnography (DID-faking as hysteria)
+- REJECTED (#56): incremental text-to-image distillation/efficiency papers (CFG scheduling)
