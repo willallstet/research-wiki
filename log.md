@@ -111,3 +111,21 @@ Fit note carried into all five reviews: four of the five are `scan_arxiv` false 
 ## [2026-08-04] update_wiki | no-op — queue/accepted/ absent on main; last intake merge still #21 (2026-07-09)
 
 Fourth consecutive update_wiki no-op, but for a different reason than the previous three: review coverage is no longer the blocker (five fresh reviews were posted this run), yet zero PRs have been merged since #21, so there is nothing in queue/accepted/ to integrate. 0 pages touched. Current state: 61 open PRs, 7 closed-unmerged. The pipeline remains entirely gated on human merge/close decisions — reviews are now waiting on 59 of the 61 open PRs.
+
+## [2026-08-04] peer_review | reviewed the 2 remaining unreviewed arXiv intakes (#73, #74)
+
+Ran peer_review on all open PRs: of 31 open, 29 are arXiv intakes and 27 already carried
+`<!-- llm-wiki-review -->`, leaving #73 (2608.02148, Douyin Multimodal Embedding) and #74
+(2608.01794, VisID/MVEB) unreviewed. Both PDFs downloaded and read in full (28pp and 18pp
+incl. supplementary); posted one full-depth review each, both `borderline` (#73 scores
+3/2/3/4/3; #74 scores 3/2/3/3/3). The 2 remaining open PRs (#53, #71) are substack/blog
+intakes that already carry `<!-- llm-content-review -->`, so peer_review does not apply.
+Review coverage across all open PRs is now complete — 0 unreviewed intakes remain.
+
+## [2026-08-04] update_wiki | no-op — queue/accepted/ absent on main; last intake merge still #21 (2026-07-09)
+
+Second run today (user-requested, following peer_review above). No accepted papers to
+integrate: `queue/` does not exist on `main`, and no intake PR has been merged since #21 on
+2026-07-09. 0 pages touched. All 31 open PRs await human merge/close decisions. Now that
+review coverage is complete, re-running peer_review can add nothing — the pipeline moves
+only when a human merges or closes queued PRs.
