@@ -129,3 +129,17 @@ integrate: `queue/` does not exist on `main`, and no intake PR has been merged s
 2026-07-09. 0 pages touched. All 31 open PRs await human merge/close decisions. Now that
 review coverage is complete, re-running peer_review can add nothing — the pipeline moves
 only when a human merges or closes queued PRs.
+
+## [2026-08-05] peer_review | no-op — all 61 open arXiv intakes already reviewed
+
+Scanned all 62 open PRs. Every arXiv queue intake (#22–#78, incl. the 7 queued 2608.x papers)
+already carries `<!-- llm-wiki-review -->`, so 0 papers needed review. The 6 substack/blog
+intakes (#31, #33, #42, #46, #53, #71) carry `<!-- llm-content-review -->` and belong to
+`review_content`, not `peer_review`; #9 is a crawl PR (`crawls/`, `index.md`, `log.md`), not a
+paper proposal. Review coverage remains complete.
+
+## [2026-08-05] update_wiki | no-op — queue/accepted/ absent on main; last intake merge still #21 (2026-07-09)
+
+No accepted papers to integrate: `queue/` does not exist on `main` and no intake PR has been
+merged since #21 on 2026-07-09. 0 pages touched. All 62 open PRs await human merge/close
+decisions — the pipeline cannot advance until a human accepts or rejects queued intakes.
