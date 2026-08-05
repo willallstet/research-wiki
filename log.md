@@ -149,3 +149,9 @@ Triaged every open PR by diff path and marker. All 55 arXiv/local-pdf intakes al
 
 ## [2026-08-05] update_wiki | no-op — queue/accepted/ empty; last intake merge still #21 (2026-07-09)
 No accepted intake files to integrate, so 0 pages touched. Tallied the standing recommendations across the 61 open PRs to identify the actual blocker: 25 `accept`, 23 `borderline`, 6 `reject`, 7 unscored (6 content-reviewed + #9). Review coverage is complete; the pipeline is blocked entirely on human merge/close decisions, not on further agent runs.
+
+## [2026-08-05] peer_review | no-op — all 54 arXiv intakes already reviewed
+Triaged all 61 open PRs by diff path and idempotency marker. Every `queue/accepted/<id>.json` arXiv/local-pdf intake (54 PRs) already carries `<!-- llm-wiki-review -->`; the 6 substack/blog intakes (#31, #33, #42, #46, #53, #71) carry `<!-- llm-content-review -->` and are correctly out of scope for the NeurIPS rubric; #9 adds `crawls/eflux-in-free-fall.md` rather than an intake file, so neither review skill applies. 0 reviews posted.
+
+## [2026-08-05] update_wiki | no-op — queue/accepted/ empty; last intake merge still #21 (2026-07-09)
+No accepted intake files present, so 0 wiki pages touched. Re-tallied standing recommendations across the 54 peer-reviewed PRs: 25 `accept`, 23 `borderline`, 6 `reject`. The pipeline has been blocked on human merge/close decisions for 27 days — agent runs cannot advance it further.
