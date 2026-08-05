@@ -143,3 +143,9 @@ paper proposal. Review coverage remains complete.
 No accepted papers to integrate: `queue/` does not exist on `main` and no intake PR has been
 merged since #21 on 2026-07-09. 0 pages touched. All 62 open PRs await human merge/close
 decisions — the pipeline cannot advance until a human accepts or rejects queued intakes.
+
+## [2026-08-05] peer_review | no-op — all 61 open PRs already reviewed
+Triaged every open PR by diff path and marker. All 55 arXiv/local-pdf intakes already carry `<!-- llm-wiki-review -->` (#11, #12, #14 carry two); the 6 substack/blog intakes (#31, #33, #42, #46, #53, #71) already carry `<!-- llm-content-review -->` from review_content and are deliberately not re-reviewed with the NeurIPS rubric; #9 adds `crawls/eflux-in-free-fall.md` rather than a `queue/accepted/` intake so neither skill applies. 0 reviews posted.
+
+## [2026-08-05] update_wiki | no-op — queue/accepted/ empty; last intake merge still #21 (2026-07-09)
+No accepted intake files to integrate, so 0 pages touched. Tallied the standing recommendations across the 61 open PRs to identify the actual blocker: 25 `accept`, 23 `borderline`, 6 `reject`, 7 unscored (6 content-reviewed + #9). Review coverage is complete; the pipeline is blocked entirely on human merge/close decisions, not on further agent runs.
