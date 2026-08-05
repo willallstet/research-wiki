@@ -161,3 +161,13 @@ Triaged all 64 open PRs by diff path and idempotency marker: 54 arXiv/local-pdf 
 
 ## [2026-08-05] update_wiki | no-op — queue/accepted/ absent on main; last intake merge still #21 (2026-07-09)
 No accepted intake files to integrate, so 0 wiki pages touched: `queue/` does not exist on `main` and no intake PR has been merged since #21, 27 days ago. Standing recommendations now span 57 peer-reviewed PRs: 27 `accept`, 24 `borderline`, 6 `reject`. Review coverage is again complete — every open arXiv intake carries a review — so the pipeline remains blocked entirely on human merge/close decisions rather than on further agent runs.
+
+## [2026-08-05] peer_review | no-op — all 28 open arXiv intakes already reviewed
+Scanned 30 open PRs on willallstet/research-wiki. All 28 arXiv queue PRs (#51–#81, less
+#71/#53) already carry the `<!-- llm-wiki-review -->` marker, so nothing was re-reviewed.
+The two unreviewed PRs (#71 NEW MODELS/Paglen, #53 CLiuAnon/PDX9) are Substack intakes and
+belong to `/review_content`, not `/peer_review`.
+
+## [2026-08-05] update_wiki | no-op — queue/accepted/ absent on main; last intake merge still #21 (2026-07-09)
+No accepted papers to integrate: every queue PR is still open awaiting the human merge gate,
+so `queue/accepted/` does not exist on `main`. Wiki pages, index, and watermarks unchanged.
