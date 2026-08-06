@@ -199,3 +199,15 @@ gate, so no JSON has landed in queue/accepted/. Backlog now 31 open PRs, oldest 
   speckle denoising; no bearing on the wiki's interest in degraded/"poor" images as
   aesthetic-political artifacts. Consistent with learned signal REJECTED (#56).
 - No queue PRs opened; no wiki pages modified.
+
+## [2026-08-06] peer_review | no-op — all 30 open intakes already reviewed
+28 arXiv queue PRs (#51–#81) already carry the `<!-- llm-wiki-review -->` marker
+and were skipped as reviewed. PRs #71 (Trevor Paglen talk) and #53 (PDX9 essay)
+are non-arXiv intakes outside this skill's filter; both already carry
+`<!-- llm-content-review -->` from /review_content. No reviews posted.
+
+## [2026-08-06] update_wiki | no-op — queue/accepted/ empty, 30 PRs awaiting merge gate
+No accepted papers to integrate: `queue/accepted/` holds no JSON on main. The
+last intake merge remains PR #21 (2026-07-09). All 30 open queue PRs are
+reviewed and waiting on the human merge/close decision, which is the gate that
+feeds this workflow — nothing to curate until some are merged.
