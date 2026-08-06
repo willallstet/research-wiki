@@ -180,3 +180,6 @@ Trevor Paglen, #53 CLiuAnon / PDX9) are Substack posts and route to `/review_con
 ## [2026-08-06] update_wiki | no-op — queue/accepted/ empty; last intake merge still #21 (2026-07-09)
 Nothing to integrate: every reviewed intake PR is still open awaiting the human merge/close
 gate, so no JSON has landed in queue/accepted/. Backlog now 31 open PRs, oldest #51.
+
+## [2026-08-06] peer_review | no-op — all 58 open arXiv intakes already reviewed; 6 substack intakes route to /review_content
+## [2026-08-06] update_wiki | no-op — queue/accepted/ absent on main; last intake merge still #21 (2026-07-09)
