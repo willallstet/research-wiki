@@ -183,3 +183,8 @@ gate, so no JSON has landed in queue/accepted/. Backlog now 31 open PRs, oldest 
 
 ## [2026-08-06] peer_review | no-op — all 58 open arXiv intakes already reviewed; 6 substack intakes route to /review_content
 ## [2026-08-06] update_wiki | no-op — queue/accepted/ absent on main; last intake merge still #21 (2026-07-09)
+
+## [2026-08-06] track_substacks | no-op — 5/5 feeds fetched, 0 posts newer than watermark
+- Feeds: cliuanon, newmodels, donotresearch, joshuacitarella, ideaspace.ystrickler.com.
+- All fetched successfully; newest post per feed still at or below the stored watermark.
+- No queue PRs opened; `config/substacks_state.json` left unchanged.
