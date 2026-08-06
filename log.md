@@ -188,3 +188,14 @@ gate, so no JSON has landed in queue/accepted/. Backlog now 31 open PRs, oldest 
 - Feeds: cliuanon, newmodels, donotresearch, joshuacitarella, ideaspace.ystrickler.com.
 - All fetched successfully; newest post per feed still at or below the stored watermark.
 - No queue PRs opened; `config/substacks_state.json` left unchanged.
+
+## [2026-08-06] scan_arxiv | no PRs — 2 candidates, 1 duplicate, 1 filtered out
+- 25/25 keywords queried successfully; 2 unique papers in the 2-day window.
+- 2608.03826 (Geo-Embed, unified multimodal embeddings for urban understanding) —
+  deduplicated: already queued as open PR #81.
+- 2608.04944 (geometry-based deep equilibrium model for image restoration under
+  multiplicative Gamma noise, math.NA) — SKIP. Matched the `image restoration`
+  keyword, but the contribution is a numerical-analysis convergence result for
+  speckle denoising; no bearing on the wiki's interest in degraded/"poor" images as
+  aesthetic-political artifacts. Consistent with learned signal REJECTED (#56).
+- No queue PRs opened; no wiki pages modified.
