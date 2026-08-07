@@ -225,3 +225,7 @@ Nothing to integrate: `main` has no `queue/` directory, so no accepted intake
 JSON is waiting. The last intake merge remains PR #21 (2026-07-09). All 64 open
 PRs are reviewed and blocked on the human merge/close gate that feeds this
 workflow. No wiki pages modified.
+
+## [2026-08-07] peer_review | no-op — all 57 arXiv intakes already reviewed; 7 non-arXiv PRs route to /review_content
+
+## [2026-08-07] update_wiki | no-op — no queue/accepted/ on main; all 64 intakes await the human merge gate
