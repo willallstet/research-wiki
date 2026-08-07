@@ -211,3 +211,17 @@ No accepted papers to integrate: `queue/accepted/` holds no JSON on main. The
 last intake merge remains PR #21 (2026-07-09). All 30 open queue PRs are
 reviewed and waiting on the human merge/close decision, which is the gate that
 feeds this workflow — nothing to curate until some are merged.
+
+## [2026-08-07] peer_review | no-op — all 57 arXiv intakes already reviewed
+64 open PRs scanned. All 57 arXiv queue PRs carry the `<!-- llm-wiki-review -->`
+marker and were skipped as reviewed. Six non-arXiv intakes (#71, #53, #46, #42,
+#33, #31) are outside this skill's filter and already carry
+`<!-- llm-content-review -->` from /review_content. PR #9 is a crawl report
+(`crawls/eflux-in-free-fall.md`), not a paper intake — no review applies. No
+reviews posted.
+
+## [2026-08-07] update_wiki | no-op — no queue/accepted/ on main
+Nothing to integrate: `main` has no `queue/` directory, so no accepted intake
+JSON is waiting. The last intake merge remains PR #21 (2026-07-09). All 64 open
+PRs are reviewed and blocked on the human merge/close gate that feeds this
+workflow. No wiki pages modified.
