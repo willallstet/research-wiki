@@ -229,3 +229,13 @@ workflow. No wiki pages modified.
 ## [2026-08-07] peer_review | no-op — all 57 arXiv intakes already reviewed; 7 non-arXiv PRs route to /review_content
 
 ## [2026-08-07] update_wiki | no-op — no queue/accepted/ on main; all 64 intakes await the human merge gate
+
+## [2026-08-07] track_substacks | no-op — 5/5 feeds fetched, 0 posts newer than watermark
+
+## [2026-08-07] scan_arxiv | 4 PRs — 25 keywords, 7 candidates, 0 duplicates, 3 filtered out
+- Queued: 2608.05811 (Energy-Guided Flow Matching), 2608.05691 (SciQNet image
+  quality assessment), 2608.05833 (ViSR-KGC visual subgraph reasoning),
+  2608.01905 (PhotoHOI, borderline → queue). PRs #82–#85.
+- Skipped: 2608.05769 (relation-manifold distillation, matches REJECTED #56),
+  2608.04944 (math.NA convergence proof), 2607.28247 (agricultural crop benchmark).
+- Watermark unchanged for substacks; no feed errors.
