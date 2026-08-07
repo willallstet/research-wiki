@@ -239,3 +239,15 @@ workflow. No wiki pages modified.
 - Skipped: 2608.05769 (relation-manifold distillation, matches REJECTED #56),
   2608.04944 (math.NA convergence proof), 2607.28247 (agricultural crop benchmark).
 - Watermark unchanged for substacks; no feed errors.
+
+## [2026-08-07] peer_review | 4 arXiv intakes reviewed (#82–#85)
+- Reviewed the 4 PRs opened by today's scan_arxiv run, each in an isolated context
+  to avoid cross-paper score anchoring: #82 2608.05811 Energy-Guided Flow Matching
+  (4/3/3/4/3 → borderline), #83 2608.05691 SciQNet (4/2/2/2/2 → reject),
+  #84 2608.05833 ViSR-KGC (4/3/3/4/3 → borderline), #85 2608.01905 PhotoHOI
+  (3/2/3/3/2 → reject, posted as a correction to a borderline first draft).
+- Skipped 6 non-arXiv PRs (#31, #33, #42, #46, #53, #71) already carrying
+  /review_content reviews, and #9 (a crawls/ report, not a queue intake).
+- All 64 prior arXiv intakes were already reviewed; no duplicates posted.
+
+## [2026-08-07] update_wiki | no-op — queue/accepted/ empty; no PR merged since #21 (2026-07-09)
