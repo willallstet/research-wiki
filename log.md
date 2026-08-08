@@ -277,3 +277,13 @@ peer_review. No comments posted.
 ## [2026-08-08] update_wiki | no-op — queue/accepted/ empty; no PR merged since #21 (2026-07-09)
 No intake JSON awaiting integration. The 30 reviewed arXiv PRs remain open pending the
 human merge/close gate, so no wiki pages, index entries, or watermarks changed.
+
+## [2026-08-08] peer_review | no-op — all 62 open arXiv intakes (#10–#85) already carry a review; 6 non-arXiv PRs out of scope
+Open PRs total 68. The 62 `queue/accepted/<arxiv-id>.json` intakes all bear a
+`<!-- llm-wiki-review -->` comment, so none were re-reviewed. Left alone: #31, #33, #42,
+#46, #53, #71 (substack/blog intakes, already reviewed by `/review_content`) and #9 (a
+`crawls/` report, not a queue intake).
+
+## [2026-08-08] update_wiki | no-op — no accepted papers; nothing merged since #21 (2026-07-09)
+`queue/accepted/` is absent on `main`; every queued intake is still awaiting a human
+merge/close decision on its PR. No wiki pages touched.
