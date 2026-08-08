@@ -251,3 +251,19 @@ workflow. No wiki pages modified.
 - All 64 prior arXiv intakes were already reviewed; no duplicates posted.
 
 ## [2026-08-07] update_wiki | no-op — queue/accepted/ empty; no PR merged since #21 (2026-07-09)
+
+## [2026-08-08] peer_review | no-op — all 29 open arXiv intakes already reviewed
+- Scanned 30 open PRs on willallstet/research-wiki. All 29 arXiv queue PRs
+  (#55–#85) already carry an `<!-- llm-wiki-review -->` comment, so every one was
+  skipped as already-reviewed. No new reviews posted, no duplicates.
+- PR #71 (NEW MODELS Substack, Trevor Paglen "How to See Like a Machine") is the
+  one open PR without a peer_review comment, but it is a non-arXiv URL intake and
+  routes to /review_content instead — left untouched.
+- The backlog is unchanged: reviews are done, the human merge gate is the blocker.
+
+## [2026-08-08] update_wiki | no-op — queue/accepted/ empty; no PR merged since #21 (2026-07-09)
+- main has no `queue/accepted/` directory at all: every intake JSON still lives on
+  its unmerged `queue/*` branch, so there is nothing to integrate into the wiki.
+- No pages created or updated; no contradictions or insights recorded.
+- Merging any of the 30 open PRs will land its JSON on main and make the next
+  update_wiki run productive.
