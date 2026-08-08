@@ -267,3 +267,13 @@ workflow. No wiki pages modified.
 - No pages created or updated; no contradictions or insights recorded.
 - Merging any of the 30 open PRs will land its JSON on main and make the next
   update_wiki run productive.
+
+## [2026-08-08] peer_review | no-op — all 30 open arXiv intakes already reviewed (#55–#85)
+User-triggered run. 31 PRs open: 30 arXiv queue intakes, every one already carrying a
+`<!-- llm-wiki-review -->` comment, so nothing was re-reviewed. The 31st (#71, a NEW MODELS
+Substack event post) was already reviewed by `/review_content` and is out of scope for
+peer_review. No comments posted.
+
+## [2026-08-08] update_wiki | no-op — queue/accepted/ empty; no PR merged since #21 (2026-07-09)
+No intake JSON awaiting integration. The 30 reviewed arXiv PRs remain open pending the
+human merge/close gate, so no wiki pages, index entries, or watermarks changed.
