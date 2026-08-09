@@ -287,3 +287,15 @@ Open PRs total 68. The 62 `queue/accepted/<arxiv-id>.json` intakes all bear a
 ## [2026-08-08] update_wiki | no-op — no accepted papers; nothing merged since #21 (2026-07-09)
 `queue/accepted/` is absent on `main`; every queued intake is still awaiting a human
 merge/close decision on its PR. No wiki pages touched.
+
+## [2026-08-09] peer_review | no-op — all 68 open PRs already reviewed
+Scanned every open PR on willallstet/research-wiki. All 62 arXiv intakes (#10–#85)
+already carry a `<!-- llm-wiki-review -->` comment; the 5 substack/blog intakes
+(#31, #33, #42, #46, #53, #71) carry `<!-- llm-content-review -->` from
+/review_content; #9 is a `crawls/` report, not a queue intake. Nothing to review.
+
+## [2026-08-09] update_wiki | no-op — queue/accepted/ empty
+No JSON files in queue/accepted/. Nothing has been merged since PR #21
+(2026-07-09), so there are no accepted papers to integrate. 68 reviewed PRs are
+waiting on a human merge/close decision — the pipeline is blocked at that gate,
+not here.
