@@ -312,3 +312,17 @@ No accepted intake JSON to integrate; the directory does not exist on `main` bec
 nothing has been merged since PR #21 (2026-07-09). No wiki pages, index entries, or
 watermarks changed. The 68 open PRs are all reviewed and waiting on the human merge/close
 gate — the pipeline is blocked there, not in curation.
+
+## [2026-08-09] peer_review | no-op — 63 arXiv intakes all carry `<!-- llm-wiki-review -->`; 5 substack PRs hold content reviews; #9 out of scope
+
+Third user-triggered run today. Scanned all 68 open PRs via GraphQL (numbers,
+files, comment bodies in one query). Every `queue/accepted/<arxiv-id>.json` PR
+already has a peer review. PRs #31, #33, #42, #46, #53 are substack/blog intakes
+reviewed by `/review_content`; #9 touches `crawls/` and is not a queue intake.
+No review posted.
+
+## [2026-08-09] update_wiki | no-op — `queue/accepted/` empty on main
+
+Nothing merged since PR #21 (2026-07-09). All 68 reviewed intakes await the human
+merge gate, so no paper has reached `queue/accepted/` to integrate. The queue is
+the bottleneck, not the curator.
