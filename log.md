@@ -299,3 +299,16 @@ No JSON files in queue/accepted/. Nothing has been merged since PR #21
 (2026-07-09), so there are no accepted papers to integrate. 68 reviewed PRs are
 waiting on a human merge/close decision — the pipeline is blocked at that gate,
 not here.
+
+## [2026-08-09] peer_review | no-op — all 61 queue intakes already reviewed; 7 PRs out of scope
+Scanned all 68 open PRs on willallstet/research-wiki. Every intake PR already carries a
+`<!-- llm-wiki-review -->` comment: 56 arXiv branches (#22–#85) plus 5 hash-named
+local-file intakes (#10–#14). Out of scope and left alone: #31, #33, #42, #46, #53, #71
+(substack/blog intakes bearing `<!-- llm-content-review -->` from `/review_content`) and
+#9 (a `crawls/` link-rot report, not a queue intake). Nothing re-reviewed.
+
+## [2026-08-09] update_wiki | no-op — queue/accepted/ absent on main
+No accepted intake JSON to integrate; the directory does not exist on `main` because
+nothing has been merged since PR #21 (2026-07-09). No wiki pages, index entries, or
+watermarks changed. The 68 open PRs are all reviewed and waiting on the human merge/close
+gate — the pipeline is blocked there, not in curation.
